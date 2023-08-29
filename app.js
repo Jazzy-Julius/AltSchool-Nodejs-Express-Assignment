@@ -1,14 +1,13 @@
 const express = require("express");
 
+const itemRouter = require("./routes/items.js");
+const userRouter = require("./users/users.router.js");
+
 const app = express();
 const PORT = 4000;
 
-const itemRoute = require("./routes/items");
-
-app.use("/items", itemRoute);
-
-
-
+app.use("/items", itemRouter);
+app.use("/users", userRouter);
 
 
 

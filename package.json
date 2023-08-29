@@ -10,8 +10,7 @@
   "description": "AltSchool School of Engineering Assignment on Express",
   "main": "expressWeb.js",
   "scripts": {
-    "start": "expressWeb.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "author": "Julius Ukandu",
   "license": "ISC"

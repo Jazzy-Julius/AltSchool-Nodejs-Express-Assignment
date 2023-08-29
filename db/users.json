@@ -1,0 +1,27 @@
+[
+  { "username": "SulaimonSA", "password": "fireJS01", "user_type": "admin" },
+  {
+    "username": "JuliusSA",
+    "password": "007Sonette",
+    "api_key": "JuliusSA_007Sonette",
+    "user_type": "admin"
+  },
+  {
+    "username": "Mitoma",
+    "password": "fireboyHTML",
+    "api_key": "Mitoma_fireboyHTML",
+    "user_type": "user"
+  },
+  {
+    "username": "Donald",
+    "password": "potus45",
+    "api_key": "Donald_potus45",
+    "user_type": "user"
+  },
+  {
+    "username": "musa",
+    "password": "23gate",
+    "api_key": "musa_23gate",
+    "user_type": "user"
+  }
+]
